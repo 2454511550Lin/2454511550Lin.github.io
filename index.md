@@ -10,14 +10,13 @@ My research interests lie in machine learning/deep learning theory and applicati
 
 ## Publication
 
+<p>
 **Geometry of the Minimum Volume Confidence Sets** 
-
-**Heguang Lin**, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
-
-*IEEE International Symposium on Information Theory (ISIT), 2022.*
-
-[\[arXiv\]](https://arxiv.org/abs/2202.08180?context=math.IT)  
-
+<br>**Heguang Lin**, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
+<br>*IEEE International Symposium on Information Theory (ISIT), 2022.*
+<br>[\[arXiv\]](https://arxiv.org/abs/2202.08180?context=math.IT)  
+</p>
+ 
 **Adaptive Out-of-Distribution Detection with Human-in-the-Loop**
 
 **Heguang Lin**\*, Harit Vishwakarma\*, Ramya Korlakai Vinayak
