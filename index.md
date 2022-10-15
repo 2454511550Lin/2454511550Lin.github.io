@@ -6,7 +6,7 @@ layout: default
 
 I am a senior undergraduate student in Computer Science and Mathematics from University of Wisconsin, Madison. I am advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/) and Prof. ‪[Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
-My research interests lie in machine learning/deep learning theory and application. My previous research areas include computer vision, out-of-distribution detection, active learning, A/B testing, and computational biology. I also have strong interest in abstract algebra and cryptography.
+My research interests lie in machine learning/deep learning. My previous research areas include computer vision, out-of-distribution detection, active learning, A/B testing, and computational biology. I also have strong interest in abstract algebra and cryptography.
 
 ## Publication
 
