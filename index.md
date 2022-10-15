@@ -1,123 +1,44 @@
 ---
 layout: default
 ---
+# HEGUANG LIN
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
 
-[Link to another page](./another-page.html).
+I am a senior undergraduate student in Computer Science and Mathematics from University of Wisconsin, Madison. I am advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/) and Prof. ‪[Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+My research interests lie in machine learning/deep learning theory and application. My previous research areas include self-supervised learning, out-of-distribution detection, active learning, A/B testing, and AI in biomedical fields. I also have strong interest in abstract algebra and cryptography.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Publication
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+**Geometry of the Minimum Volume Confidence Sets** [\[PDF\]](https://arxiv.org/abs/2202.08180?context=math.IT)  
+
+**Heguang Lin**, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
+
+*IEEE International Symposium on Information Theory (ISIT), 2022.*
+
+<br>
+
+
+**Adaptive Out-of-Distribution Detection with Human-in-the-Loop** [\[PDF\]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view)
+
+**Heguang Lin**\*, Harit Vishwakarma\*, Ramya Korlakai Vinayak
+
+*Workshop on Human-Machine Collaboration and Teaming, International Conference on Machine Learning (ICML), 2022.*
+
+<br>
+
+**Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways** [\[PDF\]](https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9)
+
+Gautam Agarwal\*, Collin Frink\*, Brain Hu\*, Ziling Hu\*, Eliot Kim\*, **Heguang Lin**\*
+
+*ProjectX Undergraduate Machine Learning Research Competition, 2021.* 
+
+<br>
+
+\* Equal contribution.
+
