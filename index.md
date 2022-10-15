@@ -14,7 +14,7 @@ My research interests lie in machine learning/deep learning theory and applicati
 <b>Geometry of the Minimum Volume Confidence Sets</b> 
 <br><b>Heguang Lin</b>, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
 <br><i>IEEE International Symposium on Information Theory (ISIT), 2022.</i>
-<br><a href="https://arxiv.org/abs/2202.08180?context=math.IT">[arXiv]</a>  
+<br><a href="https://arxiv.org/abs/2202.08180?context=math.IT">[arXiv]</a> <a href="https://youtu.be/36zeC3vFENQ">[Video]</a> 
 </p>
  
 <p>
