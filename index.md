@@ -10,29 +10,29 @@ My research interests lie in machine learning/deep learning theory and applicati
 
 ## Publication
 
-**Geometry of the Minimum Volume Confidence Sets** [\[PDF\]](https://arxiv.org/abs/2202.08180?context=math.IT)  
+**Geometry of the Minimum Volume Confidence Sets** 
 
 **Heguang Lin**, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
 
 *IEEE International Symposium on Information Theory (ISIT), 2022.*
 
-<br>
+[\[arXiv\]](https://arxiv.org/abs/2202.08180?context=math.IT)  
 
-**Adaptive Out-of-Distribution Detection with Human-in-the-Loop** [\[PDF\]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view)
+**Adaptive Out-of-Distribution Detection with Human-in-the-Loop**
 
 **Heguang Lin**\*, Harit Vishwakarma\*, Ramya Korlakai Vinayak
 
 *Workshop on Human-Machine Collaboration and Teaming, International Conference on Machine Learning (ICML), 2022.*
 
-<br>
+ [\[PDF\]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view)
 
-**Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways** [\[PDF\]](https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9)
+**Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways** 
 
 Gautam Agarwal\*, Collin Frink\*, Brain Hu\*, Ziling Hu\*, Eliot Kim\*, **Heguang Lin**\*
 
 *ProjectX Undergraduate Machine Learning Research Competition, 2021.* 
 
-<br>
+[\[OpenReview\]](https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9)
 
 \* Equal contribution.
 
