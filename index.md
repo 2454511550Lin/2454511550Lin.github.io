@@ -21,7 +21,7 @@ My research interests lie in machine learning/deep learning theory and applicati
 <b>Adaptive Out-of-Distribution Detection with Human-in-the-Loop</b> 
 <br><b>Heguang Lin</b>*, Harit Vishwakarma*, Ramya Korlakai Vinayak
 <br><i>Workshop on Human-Machine Collaboration and Teaming, International Conference on Machine Learning (ICML), 2022.</i>
-<br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  
+<br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  <a href="https://slideslive.com/38986427">[Video]</a>
 </p>
 
 <p>
