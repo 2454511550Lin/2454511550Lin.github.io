@@ -33,12 +33,14 @@ My research interests lie in machine learning/deep learning theory and applicati
 
 \* Equal contribution.
 
+## Hobbies
+
+I play basketball in my free time. I am doing a heavy leg train to learn to dunk. I watch NBA -- 10 years Memphis Grizzlies fan :bear: ! I enjoy cooking. I have no hesitation in trying different recipes of bubble tea.
+
 ## Awards
-
+<p>
 The David Dewitt Undergraduate Scholarship, Computer Science Department, UW–Madison, 2022
-
-Dean’s List, College of Letters & Science, UW–Madison, 2019-2022
-
-Undergraduate Scholarship for Summer Study, UW–Madison, 2020
-
+<br>Dean’s List, College of Letters & Science, UW–Madison, 2019-2022
+<br>Undergraduate Scholarship for Summer Study, UW–Madison, 2020
+</p>
   
