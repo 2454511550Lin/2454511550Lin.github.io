@@ -33,3 +33,12 @@ My research interests lie in machine learning/deep learning theory and applicati
 
 \* Equal contribution.
 
+## Awards
+
+The David Dewitt Undergraduate Scholarship, Computer Science Department, UW–Madison, 2022
+
+Dean’s List, College of Letters & Science, UW–Madison, 2019-2022
+
+Undergraduate Scholarship for Summer Study, UW–Madison, 2020
+
+  
