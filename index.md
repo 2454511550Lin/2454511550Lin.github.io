@@ -33,6 +33,15 @@ My research interests lie in machine learning/deep learning. My previous researc
 
 \* Equal contribution.
 
+## Preprints
+
+<p>
+<b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
+<br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
+<br><i>In-Submmission: The 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.</i>
+</p>
+
+
 ## Hobbies
 
 I play basketball in my free time. I am doing a heavy leg train to learn to dunk. I watch NBA -- 10 years Memphis Grizzlies fan! I enjoy cooking. I have no hesitation in trying different recipes of bubble tea.
