@@ -31,14 +31,8 @@ My research interests lie in machine learning/deep learning. My previous researc
 <br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
 </p>
 
-\* Equal contribution.
+\* Equal contribution.![image](https://user-images.githubusercontent.com/56796669/196777873-05b692d9-e030-47e8-8c51-f1e11a8cd666.png)
 
-[]: # (## Preprints)
-[]: # (<p>)
-[]: # (<b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> )
-[]: # (<br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak)
-[]: # (<br><i>In-Submmission: The 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.</i>)
-[]: # (</p>)
 
 
 ## Hobbies
