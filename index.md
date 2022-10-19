@@ -8,7 +8,7 @@ I am a senior undergraduate student in Computer Science and Mathematics from Uni
 
 My research interests lie in machine learning/deep learning. My previous research areas include computer vision, out-of-distribution detection, active learning, A/B testing, and computational biology. I also have strong interest in abstract algebra and cryptography.
 
-## Publication
+## Publications
 
 <p>
 <b>Geometry of the Minimum Volume Confidence Sets</b> 
