@@ -36,7 +36,7 @@ My research interests lie in machine learning/deep learning. My previous researc
 <b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
 <br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
 <br><i>Under Review: The 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.</i>
-<br><a href=" https://arxiv.org/abs/2211.12620">[arXiv]</a>
+<br><a href="https://arxiv.org/abs/2211.12620">[arXiv]</a>
 </p>
 
 \* Denotes equal contribution.
