@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a graduate student at the University of Pennsylvania. Before that, I received Bachelor of Science in Computer Science and Mathematics from the University of Wisconsin, Madison. I was a research assistant in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group. I was advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/) and Prof. ‪[Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
+I am a graduate student at the University of Pennsylvania. Before that, I received Bachelor of Science in Computer Science and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/) and Prof. ‪[Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
 My research interests lie in machine learning/deep learning. My previous research areas include computer vision, out-of-distribution detection, active learning, A/B testing, and computational biology. I also have a strong interest in abstract algebra and cryptography.
 
