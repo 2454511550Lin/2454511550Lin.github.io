@@ -42,7 +42,7 @@ My research interests lie in machine learning/deep learning. My previous researc
 
 ## Hobbies
 
-I play basketball in my free time. I am doing a heavy leg train to learn to dunk. I watch NBA -- 10 years Memphis Grizzlies fan! I enjoy cooking. I have no hesitation in trying different recipes of bubble tea.
+I play basketball in my free time. I am doing a heavy leg train to learn to dunk. I watch the NBA -- 10 years Memphis Grizzlies fan! I enjoy cooking. I have no hesitation in trying different recipes for bubble tea.
 
 ## Awards
 <p>
