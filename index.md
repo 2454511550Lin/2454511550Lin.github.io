@@ -49,4 +49,3 @@ I play basketball in my free time. I am doing a heavy leg train to learn to dunk
 The David Dewitt Undergraduate Scholarship, Computer Science Department, UW–Madison, 2022
 <br>Undergraduate Scholarship for Summer Study, UW–Madison, 2020
 </p>
-  
