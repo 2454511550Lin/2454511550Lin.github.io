@@ -31,10 +31,10 @@ My research interests lie in machine learning/deep learning. My previous researc
 <br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
 </p>
 
-## Preprints
 <p>
 <b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
 <br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
+<br><i>Neural Information Processing Systems (NeurIPS), 2023 (<b>Spotlight</b>b>)</i>
 <br><a href="https://arxiv.org/abs/2211.12620">[arXiv]</a>
 </p>
 
