@@ -11,6 +11,13 @@ My research interests lie in machine learning/deep learning. My previous researc
 ## Publications
 
 <p>
+<b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
+<br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
+<br><i>Neural Information Processing Systems (NeurIPS), 2023 (<b>Spotlight</b>)</i>
+<br><a href="https://arxiv.org/abs/2211.12620">[arXiv]</a>
+</p>
+
+<p>
 <b>Geometry of the Minimum Volume Confidence Sets</b> 
 <br><b>Heguang Lin</b>, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
 <br><i>IEEE International Symposium on Information Theory (ISIT), 2022.</i>
@@ -20,7 +27,7 @@ My research interests lie in machine learning/deep learning. My previous researc
 <p>
 <b>Adaptive Out-of-Distribution Detection with Human-in-the-Loop</b> 
 <br><b>Heguang Lin</b>*, Harit Vishwakarma*, Ramya Korlakai Vinayak
-<br><i>Workshop on Human-Machine Collaboration and Teaming, International Conference on Machine Learning (ICML), 2022.</i>
+<br><i>International Conference on Machine Learning (ICML), Workshop on Human-Machine Collaboration and Teaming 2022.</i>
 <br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  <a href="https://slideslive.com/38986427">[Video]</a>
 </p>
 
@@ -31,12 +38,15 @@ My research interests lie in machine learning/deep learning. My previous researc
 <br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
 </p>
 
+## Preprints
+
 <p>
-<b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
-<br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
-<br><i>Neural Information Processing Systems (NeurIPS), 2023 (<b>Spotlight</b>b>)</i>
-<br><a href="https://arxiv.org/abs/2211.12620">[arXiv]</a>
+<b>Human-In-The-Loop Out-Of-Distribution Detection With False Positive Rate Control</b> 
+<br>Harit Vishwakarma*, <b>Heguang Lin</b>*, Ramya Korlakai Vinayak
+<br>Under review, 2023
+<br><a href="">[Comming Soon]</a>
 </p>
+
 
 \* Denotes equal contribution.
 
