@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
+<h1> </h1>
 
-## About Me
+<h2> About Me </h2>
 
 I am a graduate student at the University of Pennsylvania. Before that, I received Bachelor of Science in Computer Science and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/), and Prof. [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
 My research interests lie in machine learning/deep learning. My previous research areas include computer vision, out-of-distribution detection, active learning, A/B testing, and computational biology. I also have a strong interest in abstract algebra and cryptography.
 
-## Publications
+<h2> Publications </h2>
 
 <p>
 <b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
@@ -38,7 +39,7 @@ My research interests lie in machine learning/deep learning. My previous researc
 <br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
 </p>
 
-## Preprints
+<h2> Preprints </h2>
 
 <p>
 <b>Human-In-The-Loop Out-Of-Distribution Detection With False Positive Rate Control</b> 
@@ -50,7 +51,7 @@ My research interests lie in machine learning/deep learning. My previous researc
 
 \* Denotes equal contribution.
 
-## Hobbies
+<h2> Hobbies </h2>
 
 I play basketball in my free time. I am doing a heavy leg train to learn to dunk. I watch the NBA -- 10 years Memphis Grizzlies fan! I enjoy cooking. I have no hesitation in trying different recipes for bubble tea.
 
