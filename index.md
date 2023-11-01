@@ -1,13 +1,20 @@
 ---
 layout: default
 ---
-<h1> </h1>
+<h1>  </h1>
 
 <h2> About Me </h2>
 
 I am a graduate student at the University of Pennsylvania. Before that, I received Bachelor of Science in Computer Science and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/), and Prof. [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
-My research interests lie in machine learning/deep learning. My previous research areas include computer vision, out-of-distribution detection, active learning, A/B testing, and computational biology. I also have a strong interest in abstract algebra and cryptography.
+<h2> Research interests </h2>
+
+<b>Safe & Robust ML</b>: The need for ML systems that are both intrinsically safe and universally robust is evident. Safety entils model's ability to recognize and defer uncertain decisions. Robustness emphasizes the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include techniques such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhence the safety and robustness of ML systems. Relevant publications are listed below:"
+- Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[HaLin2023]
+- Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[HaLin2022]</a>, <a href="">[HaLin2022]</a>
+- Confidence Interval in High Dimensions: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[LinLi2022]</a>
+
+<b>Uncertainty in Neural Rendering</b>: Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation techniques can offer insights into the quality of these outcomes, ensuring that the results are not only visually compelling but also quantifiably trustworthy.
 
 <h2> Publications </h2>
 
