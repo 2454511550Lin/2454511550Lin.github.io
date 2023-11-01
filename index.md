@@ -11,12 +11,12 @@ I am a graduate student at the University of Pennsylvania. Before that, I receiv
 
 <b>Safe & Robust ML</b>: The need for ML systems that are both intrinsically safe and universally robust is evident. Safety entils model's ability to recognize and defer uncertain decisions. Robustness emphasizes the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include techniques such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhence the safety and robustness of ML systems. Relevant publications are listed below:
 
-<ul>
-  <li>Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[HaLin2023]</li>
-  <li>Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[HaLin2022]</a>, <a href="">[HaLin2022]</a></li>
-  <li>Confidence Interval in High Dimensions: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[LinLi2022]</a></li>
-</ul>
-    
+* Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[HaLin2023]
+
+* Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[HaLin2022]</a>, <a href="">[HaLin2022]</a>
+
+* Confidence Interval in High Dimensions: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[LinLi2022]</a>
+
 <b>Uncertainty in Neural Rendering</b>: Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation techniques can offer insights into the quality of these outcomes, ensuring that the results are not only visually compelling but also quantifiably trustworthy.
 
 <h2> Publications </h2>
