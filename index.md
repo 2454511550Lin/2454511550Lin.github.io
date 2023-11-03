@@ -5,12 +5,11 @@ layout: default
 
 <h2> About Me </h2>
 
-I am a graduate student at the University of Pennsylvania. Before that, I received Bachelor of Science in Computer Science and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/), and Prof. [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
+I am a graduate student at the University of Pennsylvania. I am supervised by Prof. [Lingjie Liu](https://lingjie0206.github.io/). Before that, I received Bachelor of Science in Computer Science and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Prof. [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Prof. [Matthew L. Malloy](https://www.mattmalloy.org/), and Prof. [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
 <h2> Research interests </h2>
 
-<h4>Safe and Robust ML</h4>
-The need for ML systems that are both intrinsically safe and universally robust is evident. Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
+<b>Safe and Robust ML</b>: The need for ML systems that are both intrinsically safe and universally robust is evident. Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
 
 * Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[NeurIPS'23]
   
@@ -18,10 +17,10 @@ The need for ML systems that are both intrinsically safe and universally robust 
 
 * Confidence Regions for Multinomial Parameters: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[ISIT'22]</a>
 
-<h4>Quantifying Uncertainty in Neural Rendering</h4> 
+<b>Quantifying Uncertainty in Neural Rendering</b>:
 Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural radiance fields.
 
-<h4>Interpretable AI in Biological Research</h4>
+<b>Interpretable AI in Biological Research</b>:
 Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our work on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. My interest also extends to models that improve interpretability, such as Bayesian Neural Networks and Graphical Neural Networks.  
 
 <h2> Publications </h2>
