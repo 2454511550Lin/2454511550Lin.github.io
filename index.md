@@ -9,15 +9,20 @@ I am a graduate student at the University of Pennsylvania. Before that, I receiv
 
 <h2> Research interests </h2>
 
-<h4>Safe & Robust ML</h4>
+<h4>Safe and Robust ML</h4>
 The need for ML systems that are both intrinsically safe and universally robust is evident. Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
 
 * Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[NeurIPS'23]
+  
 * Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[ICML'22]</a>, <a href="">[Preprint'23]</a>
+
 * Confidence Regions for Multinomial Parameters: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[ISIT'22]</a>
 
-<h4>Uncertainty in Neural Rendering</h4> 
-Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. I am interested in bringing Bayesian statistics into the neural radiance field. 
+<h4>Quantifying Uncertainty in Neural Rendering</h4> 
+Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural radiance fields.
+
+<h4>Interpretable AI in Biological Research</h4>
+Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our work on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. My interest also extends to models that improve interpretability, such as Bayesian Neural Networks and Graphical Neural Networks.  
 
 <h2> Publications </h2>
 
@@ -42,6 +47,13 @@ Neural rendering, despite its remarkable performance in view synthesis, often le
 <br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  <a href="https://slideslive.com/38986427">[Video]</a>
 </p>
 
+<p>
+<b>Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways</b> 
+<br>Gautam Agarwal*, Collin Frink*, Brain Hu*, Ziling Hu*, Eliot Kim*,<b>Heguang Lin</b>*
+<br><i>ProjectX Undergraduate Machine Learning Research Competition, 2021.</i>
+<br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
+</p>
+
 <h2> Preprints </h2>
 
 <p>
@@ -50,14 +62,6 @@ Neural rendering, despite its remarkable performance in view synthesis, often le
 <br><i>Under review, 2023</i>
 <br><a href="">[Comming Soon]</a>
 </p>
-
-<p>
-<b>Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways</b> 
-<br>Gautam Agarwal*, Collin Frink*, Brain Hu*, Ziling Hu*, Eliot Kim*,<b>Heguang Lin</b>*
-<br><i>ProjectX Undergraduate Machine Learning Research Competition, 2021.</i>
-<br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
-</p>
-
 
 \* Denotes equal contribution.
 
