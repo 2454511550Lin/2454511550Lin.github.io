@@ -27,7 +27,8 @@ Interpretable AI can unlock insights into feature significance and causality and
 <h2> Publications </h2>
 
 <p>
-<b>Human-In-The-Loop Out-Of-Distribution Detection With False Positive Rate Control</b> 
+<b>Taming False Positives in Out-of-Distribution Detection with Human Feedback
+</b> 
 <br>Harit Vishwakarma*, <b>Heguang Lin</b>*, Ramya Korlakai Vinayak
 <br><i>Artificial Intelligence and Statistics (AISTATS), 2024</i>
 <br><a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[PDF]</a>
