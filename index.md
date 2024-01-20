@@ -22,11 +22,10 @@ Neural rendering, despite its remarkable performance in view synthesis, often le
 **Interpretable AI in Biological Research**:
 Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our work on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. My interest also extends to models that improve interpretability, such as Bayesian Neural Networks and Graphical Neural Networks.  
 
-<h2> Publications </h2>
+##  Publications 
 
 <p>
-<b>Taming False Positives in Out-of-Distribution Detection with Human Feedback
-</b> 
+<b>Taming False Positives in Out-of-Distribution Detection with Human Feedback</b> 
 <br>Harit Vishwakarma*, <b>Heguang Lin</b>*, Ramya Korlakai Vinayak
 <br><i>Artificial Intelligence and Statistics (AISTATS), 2024</i>
 <br><a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[PDF]</a>
@@ -53,7 +52,7 @@ Interpretable AI can unlock insights into feature significance and causality and
 <br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  <a href="https://slideslive.com/38986427">[Video]</a>
 </p>
 
-<h2> Preprints </h2>
+## Preprints
 
 <p>
 <b>Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways</b> 
