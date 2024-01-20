@@ -13,7 +13,7 @@ I am a graduate student at the University of Pennsylvania. I am supervised by Pr
 
 <ul>
   <li>Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[NeurIPS'23]</li>
-  <li>Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[ICML'22]</a>, <a href="">[Preprint'23]</a></li>
+  <li>Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[ICML'22]</a>, <a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[AIStats'24]</a></li>
   <li>Confidence Regions for Multinomial Parameters: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[ISIT'22]</a></li>
 </ul>
 
@@ -25,6 +25,13 @@ Neural rendering, despite its remarkable performance in view synthesis, often le
 Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our work on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. My interest also extends to models that improve interpretability, such as Bayesian Neural Networks and Graphical Neural Networks.  
 
 <h2> Publications </h2>
+
+<p>
+<b>Human-In-The-Loop Out-Of-Distribution Detection With False Positive Rate Control</b> 
+<br>Harit Vishwakarma*, <b>Heguang Lin</b>*, Ramya Korlakai Vinayak
+<br><i>Under review, 2023</i>
+<br><a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[PDF]</a>
+</p>
 
 <p>
 <b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
@@ -47,20 +54,13 @@ Interpretable AI can unlock insights into feature significance and causality and
 <br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  <a href="https://slideslive.com/38986427">[Video]</a>
 </p>
 
+<h2> Preprints </h2>
+
 <p>
 <b>Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways</b> 
 <br>Gautam Agarwal*, Collin Frink*, Brain Hu*, Ziling Hu*, Eliot Kim*,<b>Heguang Lin</b>*
 <br><i>ProjectX Undergraduate Machine Learning Research Competition, 2021.</i>
 <br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
-</p>
-
-<h2> Preprints </h2>
-
-<p>
-<b>Human-In-The-Loop Out-Of-Distribution Detection With False Positive Rate Control</b> 
-<br>Harit Vishwakarma*, <b>Heguang Lin</b>*, Ramya Korlakai Vinayak
-<br><i>Under review, 2023</i>
-<br><a href="">[Comming Soon]</a>
 </p>
 
 \* Denotes equal contribution.
