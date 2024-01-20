@@ -13,7 +13,7 @@ I am a graduate student at the University of Pennsylvania. I am supervised by Pr
 
 
 * Threshold-Based Auto-Labeling: [NeurIPS'23](https://arxiv.org/abs/2211.12620)
-* Human-in-the-Loop Out-of-Distribution Detection: [ICML'22](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [AISTATS'24](href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
+* Human-in-the-Loop Out-of-Distribution Detection: [ICML'22](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [AISTATS'24](https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
 * Confidence Regions for Multinomial Parameters: [ISIT'22](https://arxiv.org/abs/2202.08180?context=math.IT)
 
 **Quantifying Uncertainty in Neural Rendering**:
