@@ -12,9 +12,9 @@ I am a graduate student at the University of Pennsylvania. I am supervised by Pr
 **Safe and Robust ML**: Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
 
 
-* Threshold-Based Auto-Labeling: [NeurIPS'23](https://arxiv.org/abs/2211.12620)
-* Human-in-the-Loop Out-of-Distribution Detection: [ICML'22](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [AISTATS'24](https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
-* Confidence Regions for Multinomial Parameters: [ISIT'22](https://arxiv.org/abs/2202.08180?context=math.IT)
+* Threshold-Based Auto-Labeling: [[NeurIPS'23]](https://arxiv.org/abs/2211.12620)
+* Human-in-the-Loop Out-of-Distribution Detection: [[ICML'22]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [[AISTATS'24]](https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
+* Confidence Regions for Multinomial Parameters: [[ISIT'22]](https://arxiv.org/abs/2202.08180?context=math.IT)
 
 **Quantifying Uncertainty in Neural Rendering**:
 Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural radiance fields.
