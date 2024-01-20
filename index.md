@@ -13,7 +13,7 @@ I am a graduate student at the University of Pennsylvania. I am supervised by Pr
 
 <ul>
   <li>Threshold-Based Auto-Labeling: <a href="https://arxiv.org/abs/2211.12620">[NeurIPS'23]</li>
-  <li>Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[ICML'22]</a>, <a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[AIStats'24]</a></li>
+  <li>Human-in-the-Loop Out-of-Distribution Detection: <a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[ICML'22]</a>, <a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[AISTATS'24]</a></li>
   <li>Confidence Regions for Multinomial Parameters: <a href="https://arxiv.org/abs/2202.08180?context=math.IT">[ISIT'22]</a></li>
 </ul>
 
@@ -29,7 +29,7 @@ Interpretable AI can unlock insights into feature significance and causality and
 <p>
 <b>Human-In-The-Loop Out-Of-Distribution Detection With False Positive Rate Control</b> 
 <br>Harit Vishwakarma*, <b>Heguang Lin</b>*, Ramya Korlakai Vinayak
-<br><i>Under review, 2023</i>
+<br><i>Artificial Intelligence and Statistics (AISTATS), 2024</i>
 <br><a href="https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf">[PDF]</a>
 </p>
 
