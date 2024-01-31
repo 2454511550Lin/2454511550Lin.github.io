@@ -32,7 +32,7 @@ Interpretable AI can unlock insights into feature significance and causality and
 </p>
 
 <p>
-<b>Good Data from Bad Models: Foundations of Threshold-based Auto-labeling</b> 
+<b>Promises and Pitfalls of Threshold-based Auto-labeling</b> 
 <br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
 <br><i>Neural Information Processing Systems (NeurIPS), 2023 (<b>Spotlight</b>)</i>
 <br><a href="https://arxiv.org/abs/2211.12620">[arXiv]</a>
