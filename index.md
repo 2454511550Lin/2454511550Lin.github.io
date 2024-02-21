@@ -19,8 +19,8 @@ I am a graduate student at the University of Pennsylvania. I am supervised by Pr
 **Quantifying Uncertainty in Neural Rendering**:
 Neural rendering, despite its remarkable performance in view synthesis, often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural radiance fields.
 
-**Interpretable AI in Biological Research**:
-Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our work on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. My interest also extends to models that improve interpretability, such as Bayesian Neural Networks and Graphical Neural Networks.  
+**AI in Biological Research**:
+Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our work on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. 
 
 ##  Publications 
 
