@@ -63,9 +63,14 @@ Interpretable AI can unlock insights into feature significance and causality and
 
 \* Denotes equal contribution.
 
-<h2> Hobbies </h2>
+<h2> For fun </h2>
 
-I play basketball in my free time. I am doing a heavy leg train to learn to dunk. I watch the NBA -- 10 years Memphis Grizzlies fan! I enjoy cooking. I have no hesitation in trying different recipes for bubble tea.
+**Fortune-Telling Chatbot**: Check out our Fortune-Telling GPTs on 
+- [Dream Interpretation (周公解梦)](https://chat.openai.com/g/g-CKYVv6eab-mirroraizhou-gong-jie-meng)
+- [Lenormand (雷诺曼)](https://chat.openai.com/g/g-vGHlnp5DB-mirrorailei-nuo-man)
+- [Master Namewright (取名大师)](https://chat.openai.com/g/g-f3YlXs9IS-mirroraiqu-ming-da-shi)
+  
+The Beta version works best with Chinese, but feel free to tweak the prompt to talk in any other language!
 
 ## Awards
 <p>
