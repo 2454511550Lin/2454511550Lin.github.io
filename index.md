@@ -72,6 +72,8 @@ Interpretable AI can unlock insights into feature significance and causality and
   
 The Beta version works best with Chinese, but feel free to tweak the prompt to talk in any other language!
 
+**3D Modelling**: Just started my journey to modeling and Maya. Check out my some of my works [HERE](./another-page.html)!
+
 ## Awards
 <p>
 The David Dewitt Undergraduate Scholarship, Computer Science Department, UW–Madison, 2022
