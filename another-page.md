@@ -10,7 +10,7 @@ layout: default
 
 ## Chess Set
 
-![Chess Set](/assets/img/modelings/chess.jpg)
+![Chess Set](/assets/img/modelings/chess_new.jpg)
 
 
 
