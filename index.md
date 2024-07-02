@@ -52,7 +52,7 @@ Interpretable AI can unlock insights into feature significance and causality and
 <br><a href="https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view">[PDF]</a>  <a href="https://slideslive.com/38986427">[Video]</a>
 </p>
 
-## Preprints
+### Preprints
 
 <p>
 <b>Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways</b> 
@@ -63,7 +63,17 @@ Interpretable AI can unlock insights into feature significance and causality and
 
 \* Denotes equal contribution.
 
-<h2> For fun </h2>
+## Working experience
+
+###  [Cephla](https://cephla.com/)
+ - **Machine Learning Research Intern**
+ - January 2024 - Present
+
+### [Genentech](https://www.gene.com/)
+ - **AI Intern**
+ - June 2020 - August 2020
+
+## For fun
 
 **Fortune-Telling Chatbot**: Check out our Fortune-Telling GPTs on 
 - [Dream Interpretation (周公解梦)](https://chat.openai.com/g/g-CKYVv6eab-mirroraizhou-gong-jie-meng)
