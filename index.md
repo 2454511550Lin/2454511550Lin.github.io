@@ -5,7 +5,7 @@ layout: default
 
 ## About Me 
 
-I expect to receive my Master of Science in Engineering with a concentration in Computer Graphics and Game Technology  from the University of Pennsylvania in May 2025.  Here I was supervised by Professor [Lingjie Liu](https://lingjie0206.github.io/). Before that, I received Bachelor of Science in Computer Science (with Honors) and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Professor [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Professor [Matthew L. Malloy](https://www.mattmalloy.org/), and Professor [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
+I expect to receive my Master of Science in Engineering with a concentration in Computer Graphics and Game Technology from the University of Pennsylvania in May 2025.  Here I was supervised by Professor [Lingjie Liu](https://lingjie0206.github.io/). Before that, I received Bachelor of Science in Computer Science (with Honors) and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Professor [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Professor [Matthew L. Malloy](https://www.mattmalloy.org/), and Professor [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
 ## Research interests ##
 
