@@ -58,14 +58,14 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 <b>HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering</b> 
 <br>Yunzhou Song*, <b>Heguang Lin</b>*, Jiahui Lei, Lingjie Liu, Kostas Daniilidis
 <br><i>In submission, 2024.</i>
-<br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
+<br><a href="https://timsong412.github.io/HDGS-ProjPage/">[Project Page]</a>  
 </p>
 
 <p>
 <b>Machine Learning for Glucose Prediction to Identify Diabetes-related Metabolic Pathways</b> 
 <br>Gautam Agarwal*, Collin Frink*, Brain Hu*, Ziling Hu*, Eliot Kim*,<b>Heguang Lin</b>*
 <br><i>ProjectX Undergraduate Machine Learning Research Competition, 2021.</i>
-<br><a href="https://timsong412.github.io/HDGS-ProjPage/">[Project Page]</a>  
+<br><a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[OpenReview]</a>  
 </p>
 
 \* Denotes equal contribution.
