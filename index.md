@@ -55,6 +55,13 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 ### Preprints
 
 <p>
+<b>Octopi: Open configurable high-throughput imaging platform for disease diagnosis</b> 
+<br>Hongquan Li, <b>Heguang Lin</b>, Rinni Bhansali, Pranav Shrestha, You Yan, Kevin Marx, Wei Ouyang, Lucas Fuentes Valenzuela, Ethan Li, Anesta Kothari, Jerome Nowak, Hazel Soto-Montoya, Adil Jussupov, Maxime Voisin Byaruhanga Oswald, Prasanna Jagannathan, Manu Prakash
+<br><i>In submission, 2024.</i>
+<br><a href="">[Coming Soon]</a>  
+</p>
+
+<p>
 <b>HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering</b> 
 <br>Yunzhou Song*, <b>Heguang Lin</b>*, Jiahui Lei, Lingjie Liu, Kostas Daniilidis
 <br><i>In submission, 2024.</i>
