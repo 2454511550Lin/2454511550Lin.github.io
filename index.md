@@ -65,7 +65,7 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 <b>HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering</b> 
 <br>Yunzhou Song*, <b>Heguang Lin</b>*, Jiahui Lei, Lingjie Liu, Kostas Daniilidis
 <br><i>In submission, 2024.</i>
-<br><a href="https://timsong412.github.io/HDGS-ProjPage/">[Project Page]</a>  
+<br><a href="https://timsong412.github.io/HDGS-ProjPage/">[Project Page]</a> <a href="https://arxiv.org/abs/2412.01823">[arXiv]</a>
 </p>
 
 <p>
