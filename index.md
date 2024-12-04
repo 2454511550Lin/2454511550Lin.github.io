@@ -56,7 +56,7 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 
 <p>
 <b>Octopi: Open configurable high-throughput imaging platform for disease diagnosis</b> 
-<br>Hongquan Li, <b>Heguang Lin</b>, Rinni Bhansali, Pranav Shrestha, You Yan, Kevin Marx, Wei Ouyang, Lucas Fuentes Valenzuela, Ethan Li, Anesta Kothari, Jerome Nowak, Hazel Soto-Montoya, Adil Jussupov, Maxime Voisin Byaruhanga Oswald, Prasanna Jagannathan, Manu Prakash
+<br>Hongquan Li, <b>Heguang Lin</b>, Rinni Bhansali, Pranav Shrestha, You Yan, Kevin Marx, Wei Ouyang, Lucas Fuentes Valenzuela, Ethan Li, Anesta Kothari, Jerome Nowak, Hazel Soto-Montoya, Adil Jussupov, Maxime Voisin, Byaruhanga Oswald, Prasanna Jagannathan, Manu Prakash
 <br><i>In submission, 2024.</i>
 <br><a href="">[Coming Soon]</a>  
 </p>
