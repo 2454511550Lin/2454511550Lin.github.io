@@ -17,10 +17,10 @@ I expect to receive my Master of Science in Engineering in Computer Graphics and
 * Confidence Regions for Multinomial Parameters: [[ISIT'22]](https://arxiv.org/abs/2202.08180?context=math.IT)
 
 **AI in Biomedical Research**:
-Interpretable AI can unlock insights into feature significance and causality and facilitate discoveries in biology. Check out our ongoing research on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[ProjectX'2021]</a> which delves into the interpretability of neural networks in predicting diabetes in mice. 
+I am passionate about using AI to address biomedical and healthcare challenges. Check out our ongoing research on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[Preprint'21]</a> which looks into the interpretability of neural networks in predicting diabetes in mice. My most recent work involves developing a high-throughput ML system for malaria detection during my internship at [Cephla](https://cephla.com/).
 
 **Quantifying Uncertainty in Neural Rendering**:
-Neural rendering often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural rendering. Check out our latest work in Gaussian Splatting <a href="https://timsong412.github.io/HDGS-ProjPage/">[Preprint'2025].
+Neural rendering often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural rendering. Check out our latest work in Gaussian Splatting <a href="https://timsong412.github.io/HDGS-ProjPage/">[Preprint'24].
 
 ##  Publications 
 
