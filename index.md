@@ -35,7 +35,8 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 <b>Promises and Pitfalls of Threshold-based Auto-labeling</b> 
 <br>Harit Vishwakarma, <b>Heguang Lin</b>, Frederic Sala, Ramya Korlakai Vinayak
 <br><i>Neural Information Processing Systems (NeurIPS), 2023 (<b>Spotlight</b>)</i>
-<br><a href="https://arxiv.org/abs/2211.12620">[arXiv]</a>
+<br><a href="https://harit7.github.io/TBAL/">[Project Page]</a> <a href="https://arxiv.org/abs/2211.12620">[arXiv]</a> 
+ 
 </p>
 
 <p>
