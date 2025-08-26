@@ -12,9 +12,9 @@ Previously, I received my Master's in Computer Graphics and Game Technology from
 ## Research interests ##
 
 **AI for Life Science**:
-I am passionate about using AI to address life science challenges. Check out our ongoing research on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[Preprint'21]</a>, which looks into the interpretability of neural networks in predicting diabetes in mice. My most recent work involves developing a high-throughput ML system for malaria detection during my internship at [Cephla](https://cephla.com/).
+I am passionate about using AI to address life science challenges. My most recent work involves developing a high-throughput ML system for malaria detection [[medRxiv'25]](https://www.medrxiv.org/content/10.1101/2025.03.21.25324364v2) during my internship at [Cephla](https://cephla.com/).
 
-**Safe and Robust ML**: Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
+**Safe and Robust ML**: Safety and robustness refers to the model's resilience against adversarial and unanticipated scenarios. My research endeavors include methods such as uncertainty estimation and out-of-distribution detection to enhance the robustness of ML systems. Relevant publications are listed below:
 
 * Threshold-Based Auto-Labeling: [[NeurIPS'23]](https://arxiv.org/abs/2211.12620)
 * Human-in-the-Loop Out-of-Distribution Detection: [[ICML'22]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [[AISTATS'24]](https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
