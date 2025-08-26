@@ -80,7 +80,7 @@ I am passionate about using AI to address life science challenges. My most recen
 
 ###  [Cephla](https://cephla.com/)
  - **Machine Learning Research Intern**
- - January 2024 - Present
+ - May 2024 - August 2024
 
 ### [Genentech](https://www.gene.com/)
  - **AI Intern**
