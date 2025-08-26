@@ -5,22 +5,20 @@ layout: default
 
 ## About Me 
 
-I expect to receive my Master of Science in Engineering in Computer Graphics and Game Technology from the University of Pennsylvania in May 2025.  Here I am supervised by Professor [Lingjie Liu](https://lingjie0206.github.io/). Before that, I received Bachelor of Science in Computer Science (with Honors) and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Professor [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Professor [Matthew L. Malloy](https://www.mattmalloy.org/), and Professor [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
+I am a first-year Ph.D. student at The Scripps Research Institute in Chemical and Biological Sciences.
+
+Previously, I received my Master's in Computer Graphics and Game Technology from the University of Pennsylvania, where I was supervised by Professor [Lingjie Liu](https://lingjie0206.github.io/). Before that, I received Bachelor of Science in Computer Science (with Honors) and Mathematics from the University of Wisconsin-Madison, where I worked in Machine Learning and Optimization Theory ([MLOPT](https://mlopt.ece.wisc.edu/)) Research Group and advised by Professor [Ramya Korlakai Vinayak](https://ramyakv.github.io/), Professor [Matthew L. Malloy](https://www.mattmalloy.org/), and Professor [Steven J. Schrodi](https://genetics.wisc.edu/staff/schrodi-steven/). 
 
 ## Research interests ##
 
-**Safe and Robust ML**: Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
+**AI for Life Science**:
+I am passionate about using AI to address life science challenges. Check out our ongoing research on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[Preprint'21]</a>, which looks into the interpretability of neural networks in predicting diabetes in mice. My most recent work involves developing a high-throughput ML system for malaria detection during my internship at [Cephla](https://cephla.com/).
 
+**Safe and Robust ML**: Safety and robustness entail the model's resilience against adversarial attacks, unanticipated scenarios, and data inconsistencies. My research endeavors include methods such as uncertainty estimation, calibration, and Out-of-Distribution detection to enhance the safety and robustness of ML systems. Relevant publications are listed below:
 
 * Threshold-Based Auto-Labeling: [[NeurIPS'23]](https://arxiv.org/abs/2211.12620)
 * Human-in-the-Loop Out-of-Distribution Detection: [[ICML'22]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [[AISTATS'24]](https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
 * Confidence Regions for Multinomial Parameters: [[ISIT'22]](https://arxiv.org/abs/2202.08180?context=math.IT)
-
-**AI in Biomedical Research**:
-I am passionate about using AI to address biomedical and healthcare challenges. Check out our ongoing research on <a href="https://openreview.net/forum?id=HObGjRkXOAY&noteId=rx-xx8Wpak9">[Preprint'21]</a> which looks into the interpretability of neural networks in predicting diabetes in mice. My most recent work involves developing a high-throughput ML system for malaria detection during my internship at [Cephla](https://cephla.com/).
-
-**Quantifying Uncertainty in Neural Rendering**:
-Neural rendering often leaves questions about the reliability of its reconstructions. Incorporating uncertainty estimation ensures that the results are quantifiably trustworthy. My focus is on infusing Bayesian statistics into neural rendering. Check out our latest work in Gaussian Splatting <a href="https://timsong412.github.io/HDGS-ProjPage/">[Preprint'24].
 
 ##  Publications 
 
@@ -56,10 +54,10 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 ### Preprints
 
 <p>
-<b>Octopi: Open configurable high-throughput imaging platform for disease diagnosis</b> 
-<br>Hongquan Li, <b>Heguang Lin</b>, Rinni Bhansali, Pranav Shrestha, You Yan, Kevin Marx, Wei Ouyang, Lucas Fuentes Valenzuela, Ethan Li, Anesta Kothari, Jerome Nowak, Hazel Soto-Montoya, Adil Jussupov, Maxime Voisin, Byaruhanga Oswald, Prasanna Jagannathan, Manu Prakash
-<br><i>In submission, 2024.</i>
-<br><a href="">[Coming Soon]</a>  
+<b>Octopi 2.0: Open and Scalable Microscopy Platform for AI-powered Diagnostic Applications</b> 
+<br>Hongquan Li, <b>Heguang Lin</b>, Pranav Shrestha, Rinni Bhansali, You Yan, Jaspreet Pannu, Kevin Marx, Wei Ouyang, Lucas Fuentes Valenzuela, Ethan Li, Anesta Kothari, Jerome Nowak, Hazel Soto-Montoya, Adil Jussupov, Maxime Voisin, Kajal Maran, Oswald Byaruhanga, Joaniter Nankabirwa, Byran Greenhouse, Prasanna Jagannathan, Manu Prakash
+<br><i>In submission, 2025.</i>
+<br><a href="https://www.medrxiv.org/content/10.1101/2025.03.21.25324364v2">[medRxiv]</a>  
 </p>
 
 <p>
@@ -90,14 +88,7 @@ Neural rendering often leaves questions about the reliability of its reconstruct
 
 ## For fun
 
-**Fortune-Telling Chatbot**: Check out our Fortune-Telling GPTs on 
-- [Dream Interpretation (周公解梦)](https://chat.openai.com/g/g-CKYVv6eab-mirroraizhou-gong-jie-meng)
-- [Lenormand (雷诺曼)](https://chat.openai.com/g/g-vGHlnp5DB-mirrorailei-nuo-man)
-- [Master Namewright (取名大师)](https://chat.openai.com/g/g-f3YlXs9IS-mirroraiqu-ming-da-shi)
-  
-The Beta version works best with Chinese, but feel free to tweak the prompt to talk in any other language!
-
-**3D Modeling**: Just started my journey to modeling and Maya. Check out some of my works [HERE](./another-page.html)!
+**3D Modeling**: Just started my journey into modeling and Maya. Check out some of my works [HERE](./another-page.html)!
 
 ## Awards
 <p>
