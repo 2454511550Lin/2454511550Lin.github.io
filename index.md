@@ -92,6 +92,7 @@ I am passionate about using AI to address life science challenges. My most recen
 
 ## Awards
 <p>
-The David Dewitt Undergraduate Scholarship, Computer Science Department, UW–Madison, 2022
+The Schimmel Family Endowed Fellowship, Skaggs Graduate School of Chemical and Biological Sciences, Scripps Research, 2025 
+<br>The David Dewitt Undergraduate Scholarship, Computer Science Department, UW–Madison, 2022
 <br>Undergraduate Scholarship for Summer Study, UW–Madison, 2020
 </p>
