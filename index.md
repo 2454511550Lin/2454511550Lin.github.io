@@ -18,7 +18,7 @@ I am passionate about using AI to address life science challenges. My most recen
 
 * Threshold-Based Auto-Labeling: [[NeurIPS'23]](https://arxiv.org/abs/2211.12620)
 * Human-in-the-Loop Out-of-Distribution Detection: [[ICML'22]](https://drive.google.com/file/d/15HKqge8mfjgapdw6knGMEMEDflsKHlvP/view), [[AISTATS'24]](https://ramyakv.github.io/OOD_FPR_Guarantee_2024.pdf)
-* Confidence Regions for Multinomial Parameters: [[ISIT'22]](https://arxiv.org/abs/2202.08180?context=math.IT)
+* Confidence Regions for Multinomial Parameters: [[ISIT'22]](https://arxiv.org/abs/2202.08180?context=math.IT), [[arXiv'26]](https://arxiv.org/abs/2601.18145)
 
 ##  Publications 
 
@@ -52,6 +52,13 @@ I am passionate about using AI to address life science challenges. My most recen
 </p>
 
 ### Preprints
+
+<p>
+<b>Exact Minimum-Volume Confidence Set Intersection for Multinomial Outcomes</b> 
+<br><b>Heguang Lin</b>, Binhao Chen, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
+<br><i>In submission, 2026.</i>
+<br><a href="https://arxiv.org/abs/2601.18145">[arXiv]</a> 
+</p>
 
 <p>
 <b>Octopi 2.0: Open and Scalable Microscopy Platform for AI-powered Diagnostic Applications</b> 
