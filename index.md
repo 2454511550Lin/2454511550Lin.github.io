@@ -54,6 +54,13 @@ I am passionate about using AI to address life science challenges. My most recen
 ### Preprints
 
 <p>
+<b>Machine Learning Prediction of Antibody-mediated Effector Function Using Structural Features of Fc-Glycans and Binding Affinity to an Fc-receptor</b> 
+<br><b>Heguang Lin</b>, Pei-Kang Tsou, Hsin-Kai Tseng, Jennifer M Lo, Gannedi Veeranjaneyulu, Chi-Huey Wong
+<br><i>Preprint, 2026.</i>
+<br><a href="https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000327">[ChemRxiv]</a> 
+</p>
+
+<p>
 <b>Exact Minimum-Volume Confidence Set Intersection for Multinomial Outcomes</b> 
 <br><b>Heguang Lin</b>, Binhao Chen, Mengze Li, Daniel Pimentel-Alarcón, Matthew L. Malloy
 <br><i>In submission, 2026.</i>
